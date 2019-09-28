@@ -6,8 +6,8 @@ This role allows you to manager CPU and memory settings for transient sessions v
 Requirements
 ------------
 
-Fedora 30 or higher
-RHEL 8.0 or higher
+- Fedora 30 or higher
+- RHEL 8.0 or higher
 
 Transient units used to work on older RHEL/Fedora versions but got broken during the RHEL 7 lifecycle. Compatibility was restored with RHEL 8. If you're running very old RHEL 7, this role might work but you're going to be dealing with bugs and security holes that should be closed with patches.
 
