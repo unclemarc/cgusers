@@ -1,7 +1,7 @@
 cgusers
 =========
 
-This role allows you to manager CPU and memory settings for transient sessions via cgroups. In other words, user sessions.
+This role allows you to manage CPU and memory settings for transient sessions via cgroups. In other words, user sessions.
 
 Requirements
 ------------
